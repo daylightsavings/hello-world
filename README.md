@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Just going through the motions...
+Greetings Earthlings!  Give us all your hotdogs!
